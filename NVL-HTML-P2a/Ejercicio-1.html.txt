@@ -1,0 +1,5 @@
+<p> Hola <strong>mundo</strong></p>
+<p> Practica numero <strong>1</strong></p>
+<p> <strong> Practica </strong>de parrafos</p>
+<p> <strong> Penultimo </strong>parrafo</p>
+<p> <strong> Ultimo parrafo </strong></p>
