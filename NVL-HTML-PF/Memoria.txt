@@ -1,0 +1,12 @@
+He utilizado un <p> para el apartado Quienes somos.
+Para la parte de empleados he utilizado una tabla con una imagen en un lateral y sus 
+datos junto a ella con datos de cada empleado como experiencia nombre y titulaciones.
+En los precios he creido que una tabla sería la mejor solución para que los clientes
+tengan claro a que servicio esta asociado cada precio y cuantas sesiones se regalan
+con cada bono.
+En la parte de contacto he puesto un teléfono y un cuadro donde pueden añadir su
+teléfono para que les llame la empresa directamente y puedan concretar el servicio.
+He decidido no inventarme los datos ya que en las ofertas que me pidan crear una página
+web me aportaran los datos que requieran dentro de la misma y al haberme apuntado tarde
+al curso tengo poco tiempo para completar todos los apartados pero mi proyecto incluye
+todos los requisitos requeridos por la actividad.
